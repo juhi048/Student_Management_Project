@@ -1,6 +1,4 @@
-# README
-
-## Shopping System
+# Shopping System
 
 **Overview:**
 The Shopping System is a C++ program designed to facilitate the management of a shopping system. It offers functionalities for both administrators and buyers, allowing seamless interaction with the shopping database.
@@ -42,13 +40,13 @@ The Shopping System is a C++ program designed to facilitate the management of a 
    - Buyers can generate receipts by selecting products and quantities, with automatic calculations for discounts and total amounts.
 
 **Contributors:**
-- [Your Name]
+- [JUHI RASTOGI]
 
 **License:**
-This project is licensed under the [insert license here] License.
+This project is licensed under the [MIT] License.
 
 **Disclaimer:**
 This program is created for educational purposes only and may not be suitable for use in production environments.
 
 **Note:**
-Please ensure that all necessary dependencies are installed and the program is compiled correctly before running. For any issues or suggestions, feel free to contact [Your Email Address].
+Please ensure that all necessary dependencies are installed and the program is compiled correctly before running. For any issues or suggestions, feel free to contact [juhirastogi048@gmail.com].
